@@ -201,3 +201,7 @@ em{
 .social{
     padding: 1%;
 }
+
+.social:hover{
+    color: #ff4c68;
+}
