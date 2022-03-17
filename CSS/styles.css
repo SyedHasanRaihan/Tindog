@@ -15,7 +15,7 @@ body{
 
 #title{
     background-color: #ff4c68;
-    min-height: 80vh;
+    min-height: 70vh;
     color: #fff;
 }
 
@@ -98,6 +98,7 @@ em{
     padding: 7% 15%;
     position: relative;
     z-index: 1;
+    
 }
 
 
@@ -196,11 +197,11 @@ em{
 .footer-icon{
     padding: 5%;
     padding-bottom: .5%;
-    color: darkgrey;
 }
 
 .social{
     padding: 1%;
+    color: rgb(97, 96, 96);
 }
 
 .social:hover{
